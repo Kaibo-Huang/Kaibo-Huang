@@ -32,12 +32,14 @@
   - 📚 Incoming Freshman at Waterloo SE or UIUC CS (help me decide plz)<br>
   - ⚡ In my free time I love playing sports and debating about them<br>
   - 🎤 I have a sports podcast please SUBSCRIBE!!!      
-  <a href="https://www.youtube.com/channel/UC-mQL7N4XmsrjkYHJgAiMbw?sub_confirmation=1" target="_blank">
-    <!-- Adjusted YouTube icon -->
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" 
-         height="25" alt="youtube logo" 
-         style="vertical-align: middle; margin-top: 100px;" />
-  </a>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <span>🎤 Subscribe on:</span>
+    <a href="https://www.youtube.com/channel/UC-mQL7N4XmsrjkYHJgAiMbw?sub_confirmation=1" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" 
+           height="25" alt="youtube logo" 
+           style="margin-top: 5px;" />
+    </a>
+  </div>
 </p>
 
 ###
