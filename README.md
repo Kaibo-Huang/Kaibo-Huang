@@ -36,7 +36,7 @@
     <!-- Adjusted YouTube icon -->
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" 
          height="25" alt="youtube logo" 
-         style="vertical-align: middle; margin-top: 15px;" />
+         style="vertical-align: middle; margin-top: 100px;" />
   </a>
 </p>
 
