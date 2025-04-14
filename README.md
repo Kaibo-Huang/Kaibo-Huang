@@ -29,7 +29,7 @@
 <p align="left">
   I'm a high schooler passionate about tech!<br><br>
   - 🔭 I’m currently a Grade 12 TOPS Student at Marc Garneau C.I.<br>
-  - 📚 Incoming Freshman at Waterloo SE or UIUC CS (help me decide plz)<br>
+  - 📚 Incoming Freshman at Waterloo SE or UIUC CS (currently deciding)<br>
   - ⚡ In my free time I love playing sports and debating about them<br>
   - 🎤 I have a sports podcast please SUBSCRIBE!!! </p>
 
