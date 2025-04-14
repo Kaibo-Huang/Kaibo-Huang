@@ -26,12 +26,19 @@
 
 <h2 align="left">About Me</h2>
 
-###
-
-<p align="left">I'm a high schooler passionate about tech!<br><br>- 🔭 I’m currently a Grade 12 TOPS Student at Marc Garneau C.I.<br>- 📚 Incoming Freshman at Waterloo SE or UIUC CS (help me decide plz)<br>- ⚡ In my free time I love playing sports and debating about them<br>- 🎤 I have a sports podcast please SUBSCRIBE!!!      </a>
+<p align="left">
+  I'm a high schooler passionate about tech!<br><br>
+  - 🔭 I’m currently a Grade 12 TOPS Student at Marc Garneau C.I.<br>
+  - 📚 Incoming Freshman at Waterloo SE or UIUC CS (help me decide plz)<br>
+  - ⚡ In my free time I love playing sports and debating about them<br>
+  - 🎤 I have a sports podcast please SUBSCRIBE!!!      
   <a href="https://www.youtube.com/channel/UC-mQL7N4XmsrjkYHJgAiMbw?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a></p> 
+    <!-- Adjusted YouTube icon -->
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" 
+         height="25" alt="youtube logo" 
+         style="vertical-align: middle; margin-top: 5px;" />
+  </a>
+</p>
 
 ###
 
