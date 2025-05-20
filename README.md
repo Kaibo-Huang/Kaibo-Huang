@@ -1,4 +1,4 @@
-###<h1 align="center">hey 👋 My name is Kaibo!</h1>
+<h1 align="center">hey 👋 My name is Kaibo!</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaibo88/" target="_blank">
@@ -19,14 +19,5 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaibo-Huang.Kaibo-Huang&"  />
 </div>
-
-###
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaibo-Huang/Kaibo-Huang/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaibo-Huang/Kaibo-Huang/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kaibo-Huang/Kaibo-Huang/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
