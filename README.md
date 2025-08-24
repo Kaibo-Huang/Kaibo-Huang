@@ -1,15 +1,22 @@
-<h1 align="center">hey 👋 My name is Kaibo!</h1>
+<h1 align="center">hey 👋 I'm Kaibo!</h1>
+
+<p>about me:</p>
+<ul>
+  <li>incoming Software Engineering + Schulich Leader @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
+  <li>interested in big data analytics & LLMs, specifically in analyzing large-scale datasets for trends, predictive modeling, natural language processing, sports analytics, finance, and human behavior insights</li>
+  <li><b>huge</b> sports fan (Liverpool FC, Toronto Maple Leafs, Milwaukee Bucks)</li>
+</ul>
+
+<p>previously i've:</p>
+<ul>
+  <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a>, managing API proxies</li>
+  <li>researched hri @ <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a></li>
+</ul>
+
+<p>I'd love to connect and chat with anyone. Feel free to reach out!</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaibo88/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:kaibo.huang@outlook.com?subject=%20Subject&body=%20Body" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://discord.gg/wWq5djSb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/kaibooo_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/kaibo88/" target="_blank">linkedin</a>
+  <span> - </span>
+  <a href="mailto:kaibo.huang@outlook.com?subject=%20Subject&body=%20Body" target="_blank">email</a>
 </div>
