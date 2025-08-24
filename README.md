@@ -3,7 +3,7 @@
 <p>about me:</p>
 <ul>
   <li>incoming Software Engineering + Schulich Leader @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
-  <li>interested in big data analytics & LLMs, specifically in analyzing large-scale datasets for trends, predictive modeling, natural language processing, sports analytics, finance, and human behavior insights</li>
+  <li>interested in big data analytics & LLMs, specifically in analyzing large-scale datasets for trends, predictive modeling, sports analytics, finance, and human behavior insights</li>
   <li><b>huge</b> sports fan (Liverpool FC, Toronto Maple Leafs, Milwaukee Bucks)</li>
 </ul>
 
