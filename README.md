@@ -18,5 +18,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/kaibo88/" target="_blank">linkedin</a>
   <span> - </span>
-  <a href="mailto:kaibo.huang@outlook.com" target="_blank">email</a>
+  <a href="mailto:kaibo.huang@outlook.com">email</a>
 </div>
