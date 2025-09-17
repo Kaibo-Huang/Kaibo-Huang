@@ -16,6 +16,8 @@
 <p>I'd love to connect and chat with anyone. Feel free to reach out!</p>
 
 <div align="center">
+   <a href="https://kaibo-huang.vercel.app/" target="_blank" style="cursor: pointer;">website</a>
+  <span> - </span>
   <a href="https://www.linkedin.com/in/kaibo88/" target="_blank" style="cursor: pointer;">linkedin</a>
   <span> - </span>
   <a href="mailto:kaibo.huang@outlook.com" style="cursor: pointer;">kaibo.huang@outlook.com</a>
