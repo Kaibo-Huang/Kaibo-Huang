@@ -2,7 +2,7 @@
 
 <p>about me:</p>
 <ul>
-  <li>software engineering + schulich leader @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
+  <li>software engineering + schulich leader ($120k scholarship) @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
   <li>interested in big data analytics & llms, specifically in analyzing large-scale datasets for trends, predictive modeling, sports analytics, finance, and human behavior insights</li>
 </ul>
 
