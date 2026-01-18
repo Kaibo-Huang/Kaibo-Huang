@@ -19,6 +19,8 @@
   <span> - </span>
   <a href="https://www.linkedin.com/in/kaibo88/" target="_blank" style="cursor: pointer;">linkedin</a>
   <span> - </span>
+  <a href="https://x.com/kaibo_huang" style="cursor: pointer;">x</a>
+  <span> - </span>
   <a href="mailto:kaibo.huang@outlook.com" style="cursor: pointer;">kaibo.huang@outlook.com</a>
 </div>
 
