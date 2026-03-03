@@ -3,16 +3,18 @@
 <p>about me:</p>
 <ul>
   <li>software engineering + schulich leader ($120k scholarship) @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
-  <li>interested in big data analytics & llms, specifically in analyzing large-scale datasets for trends, predictive modeling, sports analytics, finance, and human behavior insights</li>
+  <li>incoming software engineering intern @ <a href="https://www.shopify.com/ca" target="_blank">Shopify</a></li>
+  <li>interested in applied ML, AI agents, and high-performance systems scale</li>
+  <li>competitive programmer</li>
 </ul>
 
 <p>previously i've:</p>
 <ul>
   <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a>, managing API proxies</li>
-  <li>researched hri @ <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a></li>
+  <li>researched human-robot interaction @ <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a></li>
 </ul>
 
-<p>I'd love to connect and chat with anyone. Feel free to reach out!</p>
+<p>I'd love to connect — feel free to reach out!</p>
 
 <div align="center">
    <a href="https://kaibo-huang.vercel.app/" target="_blank" style="cursor: pointer;">website</a>
@@ -23,5 +25,3 @@
   <span> - </span>
   <a href="mailto:kaibo.huang@outlook.com" style="cursor: pointer;">kaibo.huang@outlook.com</a>
 </div>
-
-
