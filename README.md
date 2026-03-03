@@ -4,7 +4,8 @@
 <ul>
   <li>software engineering + schulich leader ($120k scholarship) @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
   <li>incoming software engineering intern @ <a href="https://www.shopify.com/ca" target="_blank">Shopify</a></li>
-  <li>interested in applied ML, AI agents, and high-performance systems scale</li>
+  <li>machine learning researcher under <a href="https://vip.uwaterloo.ca/yuhao-chen-2/" target="_blank">Dr Yuhao Chen</a></li>
+  <li>interested in backend development, AI agents, and high-performance systems that scale</li>
   <li>competitive programmer</li>
 </ul>
 
