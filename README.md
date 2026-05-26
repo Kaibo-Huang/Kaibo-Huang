@@ -11,7 +11,7 @@
 
 <p>previously i've:</p>
 <ul>
-  <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a>, managing API proxies</li>
+  <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a> as a highschooler, managing API proxies</li>
   <li>researched human-robot interaction @ <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a></li>
 </ul>
 
