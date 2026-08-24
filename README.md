@@ -3,7 +3,6 @@
 <p>about me:</p>
 <ul>
   <li>software engineering + schulich leader ($120k scholarship) @ <a href="https://uwaterloo.ca" target="_blank">UWaterloo</a></li>
-  <li>software engineering intern @ <a href="https://www.shopify.com/ca" target="_blank">Shopify</a></li>
   <li>machine learning researcher under <a href="https://vip.uwaterloo.ca/yuhao-chen-2/" target="_blank">Dr Yuhao Chen</a></li>
   <li>interested in backend development, AI agents, and high-performance systems that scale</li>
   <li>i like <a href = "https://devpost.com/Kaibo-Huang?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target = "_blank">hackathons </a> and competitive programming</li>
@@ -11,6 +10,7 @@
 
 <p>previously i've:</p>
 <ul>
+  <li>interned @ <a href="https://www.shopify.com/ca" target="_blank">Shopify</a> where I worked on store analytics and rewrote a 700K req/min API in gRPC</li>
   <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a> as a highschooler, managing API proxies</li>
   <li>researched human-robot interaction @ <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a></li>
 </ul>
