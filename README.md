@@ -18,7 +18,7 @@
 <p>I'd love to connect — feel free to reach out!</p>
 
 <div align="center">
-   <a href="https://kaibo-huang.vercel.app/" target="_blank" style="cursor: pointer;">website</a>
+   <a href="https://kaibohuang.com/" target="_blank" style="cursor: pointer;">website</a>
   <span> - </span>
   <a href="https://www.linkedin.com/in/kaibo88/" target="_blank" style="cursor: pointer;">linkedin</a>
   <span> - </span>
