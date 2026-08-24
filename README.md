@@ -10,8 +10,8 @@
 
 <p>previously i've:</p>
 <ul>
-  <li>interned @ <a href="https://www.shopify.com/ca" target="_blank">Shopify</a> where I worked on  <a href="https://www.youtube.com/watch?v=DiJc9gsgzn8" target="_blank">store analytics</a> and rewrote a 700K req/min API in gRPC</li>
-  <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a> where I built the proxy deployment system used by 10,000+ engineers</li>
+  <li>interned @ <a href="https://www.shopify.com/ca" target="_blank">Shopify</a>, working on <a href="https://www.youtube.com/watch?v=DiJc9gsgzn8" target="_blank">store analytics</a> and rewriting a 700K req/min API in gRPC</li>
+  <li>interned @ <a href="https://www.rbc.com/" target="_blank">RBC</a>, creating the proxy deployment system used by 10,000+ engineers</li>
   <li>researched human-robot interaction @ <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a></li>
 </ul>
 
